@@ -1,6 +1,6 @@
 # Halloooo 👋
 
-What should we do. I don't know. But here are some facts about me.
+What should we do? I don't know. But here are some facts about me.
 
 - 🎓 I'm currently studying for a **Computer Science** degree.
 - I'm learning *literally* everything, (But I focused on programming lately).
